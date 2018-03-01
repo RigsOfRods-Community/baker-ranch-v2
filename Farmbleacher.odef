@@ -1,0 +1,8 @@
+Farmbleacher.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmbleacher1.mesh
+endmesh
+
+end

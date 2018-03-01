@@ -1,0 +1,8 @@
+Farmshack.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmshack.mesh
+endmesh
+
+end

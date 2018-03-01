@@ -1,0 +1,8 @@
+Farmtrailersign.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmtrailersign.mesh
+endmesh
+
+end

@@ -1,0 +1,8 @@
+Farmwind.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmwind1.mesh
+endmesh
+
+end

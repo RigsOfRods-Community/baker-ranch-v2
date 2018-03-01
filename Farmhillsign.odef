@@ -1,0 +1,8 @@
+Farmhillsign.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmhillsign.mesh
+endmesh
+
+end

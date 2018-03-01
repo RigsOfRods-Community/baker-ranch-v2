@@ -1,0 +1,8 @@
+Farmlumbersign.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmlumbersign.mesh
+endmesh
+
+end

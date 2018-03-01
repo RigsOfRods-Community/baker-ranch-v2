@@ -1,0 +1,8 @@
+Farmdock.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmdock1.mesh
+endmesh
+
+end

@@ -1,0 +1,8 @@
+Farmtrailerpark.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmtrailerpark.mesh
+endmesh
+
+end

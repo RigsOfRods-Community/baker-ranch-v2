@@ -1,0 +1,8 @@
+Farmcliffhouse.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmcliffhouse1.mesh
+endmesh
+
+end

@@ -1,0 +1,6 @@
+vriesen_barn.mesh
+1,1,1
+beginmesh
+mesh vriesen_barn.mesh
+endmesh
+end

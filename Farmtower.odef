@@ -1,0 +1,8 @@
+Farmtower.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmtower1.mesh
+endmesh
+
+end

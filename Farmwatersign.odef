@@ -1,0 +1,8 @@
+Farmwatersign.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmwatersign.mesh
+endmesh
+
+end

@@ -1,0 +1,22 @@
+[General]
+Name = Baker Ranch FPS
+GeometryConfig = BakerForest.otc
+Water=1
+WaterLine=12
+AmbientColor = 0.93 0.86 0.76
+StartPosition = 2066.71 15.0319 1589.69
+#CaelumConfigFile =
+SandStormCubeMap = tracks/skyboxcol
+Gravity = -9.81
+#TractionMap = BakerForest-landuse.cfg
+CategoryID = 129
+Version = 2
+GUID = 9e8e0e71-bc25-483f-b0a8-b95848ec1e29
+ 
+[Authors]
+terrain = 4 Box5diesel
+converting = Klink
+
+ 
+[Objects]
+BakerForestFPS.tobj=

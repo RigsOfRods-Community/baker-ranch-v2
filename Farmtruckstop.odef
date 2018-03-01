@@ -1,0 +1,8 @@
+Farmtruckstop.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmtruckstop1.mesh
+endmesh
+
+end

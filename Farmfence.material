@@ -1,0 +1,17 @@
+material Farmfence
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Farmfence.png
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+fir05_30.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh fir05_30.mesh
+endmesh
+
+end

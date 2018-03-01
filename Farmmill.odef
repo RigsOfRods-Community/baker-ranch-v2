@@ -1,0 +1,8 @@
+Farmmill.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmmill1.mesh
+endmesh
+
+end

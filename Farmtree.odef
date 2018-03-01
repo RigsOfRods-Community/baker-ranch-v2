@@ -1,0 +1,8 @@
+Farmtree.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh Farmtree1.mesh
+endmesh
+
+end
