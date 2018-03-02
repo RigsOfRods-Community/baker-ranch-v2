@@ -21,7 +21,9 @@ barn = hagdervriese
 textures = ashes48
 textures = Masa
 caseys = DarthCain
-fence/sign = Austin
+variousobjects = Austin
+variousobjects = VeyronEB
+flag = DeGa
  
 [Objects]
 BakerForest.tobj=

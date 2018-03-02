@@ -11,4 +11,6 @@ Remaking the classic Baker Ranch terrain for Rigs of Rods.
 - ashes48 = Terrain textures
 - Masa = Dirt texture
 - DarthCain = Caseys gas station
-- Austin = Fences/Sign
+- Austin = Various objects (`Farmfence`,`Bakersign`,`Farmpowerline`,`Farmlumbersign`)
+- VeyronEB = `rallyhouse1` and `logcabinrally` objects
+- DeGa = `RoR-flag` object
