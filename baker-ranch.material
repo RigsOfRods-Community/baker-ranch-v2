@@ -1,0 +1,383 @@
+material Farmdepot
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Farmdepot.png
+			}
+		}
+	}
+}
+material Farmfence
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Farmfence.png
+			}
+		}
+	}
+}
+material Farmlumbersign
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Farmlumbersign.png
+			}
+		}
+	}
+}
+material Farmmart
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Farmmart.png
+			}
+		}
+	}
+}
+material Farmpowerline
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Farmpowerline.png
+			}
+		}
+	}
+}
+material FarmStation
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture FarmStation.png
+			}
+		}
+	}
+}
+material Farmtown
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Farmtown.png
+			}
+		}
+	}
+}
+material Farmtree
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Farmtree.png
+			}
+		}
+	}
+}
+material Greenbush
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Greenbush.png
+			}
+		}
+	}
+}
+material ALPHA/TEX/Branches01b.dds/TWOSIDE
+{
+    receive_shadows off
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater 120
+			texture_unit
+			{
+				texture Branches01b.dds
+			}
+		}
+	}
+}
+material SOLID/TEX/Branches02trunk.dds
+{
+    receive_shadows off
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture Branches02trunk.dds
+			}
+		}
+	}
+}
+material ALPHA/TEX/Branches02branchonly.dds/TWOSIDE
+{
+    receive_shadows off
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater 120
+			texture_unit
+			{
+				texture Branches02branchonly.dds
+			}
+		}
+	}
+}
+material ALPHA/TEX/Branches01a.dds/TWOSIDE
+{
+    receive_shadows off
+	technique
+	{
+		pass
+		{
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater 120
+			texture_unit
+			{
+				texture Branches01a.dds
+			}
+		}
+	}
+}
+material SOLID/TEX/logcabinral/SOLID/TEX/logcabinrally.dds
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.000000 0.000000 0.000000 12.500000
+			texture_unit
+			{
+				texture logcabinrally.dds
+			}
+		}
+	}
+}
+material Material/SOLID/TEX/rallyhouse1.psd
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture rallyhouse1.dds
+			}
+		}
+	}
+}
+material RoR-flag-pole 
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.023649055510759354 0.01190605666488409 0.0066978163085877895 1.0
+			diffuse 0.018919244690526194 0.009524845473838528 0.005358253126714424 1.0
+			specular 0.5 0.5 0.5 1.0 12.5
+		}
+	}
+}
+material RoR-flag
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			//ambient 1.000000 1.000000 1.000000 1.000000
+			//diffuse 1.000000 1.000000 1.000000 1.000000
+			//emissive 0.000000 0.000000 0.000000 1.000000
+			cull_hardware none
+			cull_software none
+			alpha_rejection greater 128
+			texture_unit
+			{
+				anim_texture flag.png 16 0.8
+				//texture flag_1.png
+				//tex_address_mode wrap
+				//colour_op modulate
+			}
+		}
+	}
+}
+material Tree
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Tree.png
+			}
+		}
+	}
+}
+material vriesen_barn_mat 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass vriesen_barn_mat
+        {
+            texture_unit 
+            {
+                texture vriesen_barn_tex.png
+            }
+        }
+    }
+}
+material 3D-Diggers/fir01
+{
+	technique Default
+	{
+		pass Main
+		{
+			ambient 0.5 0.5 0.5 1
+			diffuse 0.6 0.6 0.6 1
+
+			alpha_rejection greater_equal 128
+
+			texture_unit
+			{
+				texture fir01.png alpha
+			}
+		}
+	}
+}
+material 3D-Diggers/fir02
+{
+	technique Default
+	{
+		pass Main
+		{
+			ambient 0.5 0.5 0.5 1
+			diffuse 0.6 0.6 0.6 1
+
+			texture_unit
+			{
+				texture_alias diffuse
+				texture fir02.jpg -1
+			}
+		}
+	}
+}
+material Bakersign
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Bakersign.png
+			}
+		}
+	}
+}
+material Farmbuildings
+{
+	technique
+	{
+		pass
+		{
+			scene_blend alpha_blend
+			alpha_rejection greater 128 
+                        cull_hardware none
+                        cull_software none
+			texture_unit
+			{
+				texture Farmbuildings.png
+			}
+		}
+	}
+}
