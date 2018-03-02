@@ -8,7 +8,7 @@ StartPosition = 2066.71 15.0319 1589.69
 #CaelumConfigFile =
 SandStormCubeMap = tracks/skyboxcol
 Gravity = -9.81
-#TractionMap = BakerForest-landuse.cfg
+TractionMap = BakerForest-landuse.cfg
 CategoryID = 129
 Version = 2
 GUID = f0213c25-7ef7-46df-8536-61dd18b928c6
@@ -21,7 +21,7 @@ barn = hagdervriese
 textures = ashes48
 textures = Masa
 caseys = DarthCain
-fence = Austin
+fence/sign = Austin
  
 [Objects]
 BakerForest.tobj=
