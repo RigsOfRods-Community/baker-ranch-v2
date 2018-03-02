@@ -11,4 +11,4 @@ Remaking the classic Baker Ranch terrain for Rigs of Rods.
 - ashes48 = Terrain textures
 - Masa = Dirt texture
 - DarthCain = Caseys gas station
-- Austin = Improved fences 
+- Austin = Fences/Sign
