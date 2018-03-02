@@ -1,0 +1,8 @@
+logcabinrally.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh logcabinrallycol.mesh
+endmesh
+
+end

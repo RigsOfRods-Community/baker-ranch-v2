@@ -1,0 +1,15 @@
+material SOLID/TEX/logcabinral/SOLID/TEX/logcabinrally.dds
+{
+	technique
+	{
+		pass
+		{
+			diffuse 1.000000 1.000000 1.000000
+			specular 0.000000 0.000000 0.000000 12.500000
+			texture_unit
+			{
+				texture logcabinrally.dds
+			}
+		}
+	}
+}

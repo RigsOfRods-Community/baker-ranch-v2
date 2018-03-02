@@ -1,0 +1,13 @@
+material Material/SOLID/TEX/rallyhouse1.psd
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture rallyhouse1.dds
+			}
+		}
+	}
+}

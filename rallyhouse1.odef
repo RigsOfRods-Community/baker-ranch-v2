@@ -1,0 +1,8 @@
+rallyhouse1.mesh
+1.0, 1.0, 1.0
+
+beginmesh
+mesh rallyhouse1.mesh
+endmesh
+
+end
