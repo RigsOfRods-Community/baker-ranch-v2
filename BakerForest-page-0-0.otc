@@ -2,7 +2,8 @@ BakerForest-new.raw
 6
 ; worldSize, diffusespecular, normalheight, blendmap, blendmapmode, alpha
 3000, BakerForest.dds     ,    BakerForest.dds
-6, test1_lushGrass_dark-ds.dds,test1_lushGrass_NRM-ds.dds, BakerForestRGB1b.png, R, 0.98
+4, grass2-c.dds,grass2-NRM-c.dds, BakerForestRGB1b.png, R, 0.98
+;6, test1_lushGrass_dark-ds.dds,test1_lushGrass_NRM-ds.dds, BakerForestRGB1b.png, R, 0.98
 ;15, grass_near.dds,grass_near-norm.dds, BakerForestRGB1b.png, R, 0.98
 15, ash_pavement-ds.dds,ash_pavement_NRM-ds.dds, BakerForestRGB1b.png, B, 0.98
 ;12, trailmap-gravel_diffusespecular.dds,trailmap-gravel_normalheight.dds, BakerForestRGB2b.png, G, 0.95
