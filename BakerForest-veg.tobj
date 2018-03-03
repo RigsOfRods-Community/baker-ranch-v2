@@ -3,11 +3,11 @@
 //trees 0, 360, 0.07, 0.09, 1.0, 250, 1200, fir14_25.mesh none BakerForest-treedensity.png -10 31TreeColl40cm.mesh
 //trees 0, 360, 0.07, 0.09, 1.0, 250, 1200, fir05_30.mesh none BakerForest-treedensity.png -15 31TreeColl40cm.mesh
 //TODO: Make tree colmesh match visual
-trees 0, 360, 0.07, 0.09, 1.0, 250, 1200, fir06_30.mesh none BakerForest-treedensity.png -10 31TreeColl40cm.mesh
+trees 0, 360, 0.07, 0.09, 1.0, 250, 1200, fir06_30.mesh none BakerForest-treedensity.psd -10 31TreeColl40cm.mesh
 
 
 // format: grass range, SwaySpeed, SwayLength, SwayDistribution, Density, minx, miny, maxx, maxy, fadetype, minY, maxY, material colormap densitymap 
-//grass 200, 0.5, 0.05, 10, 0.3, 0.5, 0.5, 1.5, 1.5, 1, 0, 0, grass1 dega1-grasscolour.dds BakerForest-grassdensity.png
+grass 300, 0.5, 0.05, 10, 0.3, 0.5, 0.5, 1.5, 1.5, 1, 0, 0, DesGrass4 BakerForest-grasscolor.png BakerForest-grassdensity.psd
 
 
 

@@ -1,6 +1,6 @@
 Heightmap.0.0.raw.size=1025
 Heightmap.0.0.raw.bpp=2
-Heightmap.0.0.flipX=1
+Heightmap.0.0.flipX=0
 
 WorldSizeX=3000
 WorldSizeZ=3000

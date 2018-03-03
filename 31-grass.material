@@ -1,0 +1,188 @@
+material	DesGrass1
+{	
+	//receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesGrass1.png
+			}	
+		}	
+	}	
+}	
+material	DesGrass2
+{	
+	//receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesGrass2.png
+			}	
+		}	
+	}	
+}
+material	DesGrass3
+{	
+	//receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesGrass3.png
+			}	
+		}	
+	}	
+}	
+material	DesGrass4
+{	
+	//receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesGrass4.png
+				tex_address_mode clamp
+			}	
+		}	
+	}	
+}	
+material	DesGrass6
+{	
+	receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesGrass6.png
+			}	
+		}	
+	}	
+}
+material	DesGrass7
+{	
+	receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesGrass7.png
+			}	
+		}	
+	}	
+}
+material	DesBchLit1
+{	
+	receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesBchLit1.png
+			}	
+		}	
+	}	
+}	
+material	DesBchLit2
+{	
+	receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesBchLit2.png
+			}	
+		}	
+	}	
+}	
+material	DesBchLit3
+{	
+	receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesBchLit3.png
+			}	
+		}	
+	}	
+}	
+material	BchMed1
+{	
+	receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesBchMed1.png
+			}	
+		}	
+	}	
+}	
+material	BchMul1
+{	
+	receive_shadows on	
+	technique	
+	{	
+		pass	
+		{	
+			cull_hardware none	
+			cull_software none	
+			alpha_rejection greater 30
+			texture_unit	
+			{	
+				texture	DesBchMul1.png
+			}	
+		}	
+	}	
+}
