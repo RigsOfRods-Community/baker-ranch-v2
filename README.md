@@ -20,3 +20,5 @@ Remaking the classic Baker Ranch terrain for Rigs of Rods.
 The latest zip can be found on AppVeyor: 
 
 https://ci.appveyor.com/project/Michael10055/baker-ranch-v2/build/artifacts
+
+**NOTE: It is recommnded to disable PSSM (shadows) as the sand layer will be missing with it on.**
