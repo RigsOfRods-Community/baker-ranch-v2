@@ -14,3 +14,9 @@ Remaking the classic Baker Ranch terrain for Rigs of Rods.
 - Austin = Various objects (`Farmfence`,`Bakersign`,`Farmpowerline`,`Farmlumbersign`)
 - VeyronEB = `rallyhouse1` and `logcabinrally` objects
 - DeGa = `RoR-flag` object
+
+# Download
+
+The latest zip can be found on AppVeyor: 
+
+https://ci.appveyor.com/project/Michael10055/baker-ranch-v2/build/artifacts
