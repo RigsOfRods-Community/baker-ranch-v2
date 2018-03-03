@@ -1,0 +1,6 @@
+stevington-mill.mesh
+1,1,1
+beginmesh
+mesh stevington-mill.mesh
+endmesh
+end

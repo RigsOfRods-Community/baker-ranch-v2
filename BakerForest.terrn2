@@ -17,12 +17,12 @@ GUID = f0213c25-7ef7-46df-8536-61dd18b928c6
 terrain = Box5diesel
 converting = Klink
 update = Michael10055
-barn = hagdervriese
 textures = ashes48
 textures = Masa
 caseys = DarthCain
-variousobjects = Austin
-variousobjects = VeyronEB
+objects = hagdervriese
+objects = Austin
+objects = VeyronEB
 flag = DeGa
  
 [Objects]

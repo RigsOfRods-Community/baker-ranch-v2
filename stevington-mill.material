@@ -1,0 +1,15 @@
+material stevington-mill-mat 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass stevington-mill-mat
+        {
+            texture_unit 
+            {
+                texture stevington-mill-tex.png
+            }
+        }
+    }
+}
