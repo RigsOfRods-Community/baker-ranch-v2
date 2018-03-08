@@ -14,4 +14,4 @@ PageFileFormat=BakerForest-page-0-0.otc
 MaxPixelError=3
 LightmapEnabled=0
 SpecularMappingEnabled=1
-NormalMappingEnabled=0
+NormalMappingEnabled=1
