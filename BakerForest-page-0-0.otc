@@ -2,15 +2,10 @@ BakerForest-new.raw
 6
 ; worldSize, diffusespecular, normalheight, blendmap, blendmapmode, alpha
 3000, BakerForest.dds     ,    BakerForest.dds
-4, grass2-c.dds,grass2-NRM-c.dds, BakerForestRGB1b.png, R, 0.98
-;6, test1_lushGrass_dark-ds.dds,test1_lushGrass_NRM-ds.dds, BakerForestRGB1b.png, R, 0.98
-;15, grass_near.dds,grass_near-norm.dds, BakerForestRGB1b.png, R, 0.98
-15, ash_pavement-ds.dds,ash_pavement_NRM-ds.dds, BakerForestRGB1b.png, B, 0.98
-;12, trailmap-gravel_diffusespecular.dds,trailmap-gravel_normalheight.dds, BakerForestRGB2b.png, G, 0.95
-6, Taiga-Dirt_DS.dds,Taiga-DirtN.dds, BakerForestRGB2b.png, G, 0.95
-;15, ash_cliff2-ds.dds,ash_cliff2_NRM-ds.dds, BakerForestRGB1b.png, G, 0.95
-8, cliff.dds,cliff-norm.dds, BakerForestRGB1b.png, G, 0.95
-15, test1_sand-ds.dds,test1_sand_NRM-ds.dds, BakerForestRGB2b.png, R, 0.95
-;8, BlackforestCracked2_DS.dds,BlackforestCracked_NM.dds,BakerForestRGB3.png, G, 0.6
+4, BakerForest_grass.dds,BakerForest_grass_NRM.dds, BakerForestRGB1b.png, R, 0.98
+15, BakerForest_pavement.dds,BakerForest_pavement_NRM.dds, BakerForestRGB1b.png, B, 0.98
+6, BakerForest_dirt.dds,BakerForest_dirt_NRM.dds, BakerForestRGB2b.png, G, 0.95
+8, BakerForest_cliff.dds,BakerForest_cliff_NRM.dds, BakerForestRGB1b.png, G, 0.95
+15, BakerForest_sand.dds,BakerForest_sand_NRM.dds, BakerForestRGB2b.png, R, 0.95
 
 
