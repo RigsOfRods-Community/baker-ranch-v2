@@ -34,4 +34,10 @@ GOTO MoveZip
 move "BakerRanchV2-git.zip" "%USERPROFILE%\Documents\Rigs of Rods 0.4\packs"
 echo Done. Exiting...
 pause
-EXIT
+
+set choice=
+set /p choice="Run again? [y/n]:"
+if not '%choice%'=='' set choice=%choice:~0,1%
+if '%choice%'=='y' goto Check7z
+
+exit
