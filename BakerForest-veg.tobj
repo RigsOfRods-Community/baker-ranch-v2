@@ -1,9 +1,5 @@
-//trees yawFrom, yawTo, scaleFrom, scaleTo, highDensity, distance1, distance2, meshName colormap densitymap gridspacing collmesh
-//trees 0, 360, 0.80, 1.90, 1.0, 250, 1200, LJTree04PagedGeo.mesh none BakerForest-treedensity.png -15 31TreeColl40cm.mesh
-//trees 0, 360, 0.07, 0.09, 1.0, 250, 1200, fir14_25.mesh none BakerForest-treedensity.png -10 31TreeColl40cm.mesh
-//trees 0, 360, 0.07, 0.09, 1.0, 250, 1200, fir05_30.mesh none BakerForest-treedensity.png -15 31TreeColl40cm.mesh
-//TODO: Make tree colmesh match visual
-trees 0, 360, 0.07, 0.09, 1.0, 250, 1200, fir06_30.mesh none BakerForest-treedensity.psd -10 31TreeColl40cm.mesh
+//TODO: Make tree collmesh match visual
+trees 0, 360, 0.07, 0.09, 1.0, 250, 1200, fir06_30.mesh none BakerForest-treedensity.psd -10 BakerForest_Treecoll.mesh
 
 
 // format: grass range, SwaySpeed, SwayLength, SwayDistribution, Density, minx, miny, maxx, maxy, fadetype, minY, maxY, material colormap densitymap 
