@@ -1,7 +1,7 @@
 BakerForest-new.raw
 6
 ; worldSize, diffusespecular, normalheight, blendmap, blendmapmode, alpha
-3000, BakerForest.dds     ,    BakerForest.dds
+3000, BakerForest.dds     ,    blank_NRM.dds
 4, BakerForest_grass.dds,BakerForest_grass_NRM.dds, BakerForestRGB1b.png, R, 0.98
 15, BakerForest_pavement.dds,BakerForest_pavement_NRM.dds, BakerForestRGB1b.png, B, 0.98
 6, BakerForest_dirt.dds,BakerForest_dirt_NRM.dds, BakerForestRGB2b.png, G, 0.95
