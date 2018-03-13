@@ -1,4 +1,4 @@
-BakerForest-new.raw
+BakerForest.raw
 6
 ; worldSize, diffusespecular, normalheight, blendmap, blendmapmode, alpha
 3000, BakerForest.dds     ,    blank_NRM.dds
