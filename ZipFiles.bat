@@ -32,7 +32,7 @@ GOTO MoveZip
 
 :MoveZip
 move "BakerRanchV2-git.zip" "%USERPROFILE%\Documents\Rigs of Rods 0.4\packs"
-echo Done. Exiting...
+echo Done.
 pause
 
 set choice=

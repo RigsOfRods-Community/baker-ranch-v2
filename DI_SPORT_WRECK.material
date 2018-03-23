@@ -1,0 +1,279 @@
+import * from "managed_mats.material"
+
+// DI_SPORT_BODY genrated by blender2ogre 0.6.0
+
+material DI_SPORT_BODY  :  RoR/Managed_Mats/Base
+{
+    receive_shadows on 
+
+    technique BaseTechnique
+    {
+        pass BaseRender
+        {
+            
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware none
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+            texture_unit Diffuse_Map
+            {
+                texture DI_SPORT_WRECK_Blue.jpg
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op modulate
+            }
+
+        }
+    }
+}
+
+material DI_SPORT_BODY_R  :  RoR/Managed_Mats/Base
+{
+    receive_shadows on 
+
+    technique BaseTechnique
+    {
+        pass BaseRender
+        {
+            
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware none
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+            texture_unit Diffuse_Map
+            {
+                texture DI_SPORT_WRECK_Red.jpg
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op modulate
+            }
+
+        }
+    }
+}
+
+material DI_SPORT_BODY_HW  :  RoR/Managed_Mats/Base
+{
+    receive_shadows on 
+
+    technique BaseTechnique
+    {
+        pass BaseRender
+        {
+            
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware none
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+            texture_unit Diffuse_Map
+            {
+                texture DI_SPORT_WRECK_HW.jpg
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op modulate
+            }
+
+        }
+    }
+}
+// DI_SPORT_SUSP genrated by blender2ogre 0.6.0
+
+material DI_SPORT_SUSP  :  RoR/Managed_Mats/Base
+{
+    receive_shadows on 
+
+    technique BaseTechnique
+    {
+        pass BaseRender
+        {
+            
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+            texture_unit Diffuse_Map
+            {
+                texture DI_SPORT_WRECK_Suspension.png
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op modulate
+            }
+
+        }
+    }
+}
+// DI_SPORT_UNIB genrated by blender2ogre 0.6.0
+
+material DI_SPORT_UNIB  :  RoR/Managed_Mats/Base
+{
+    receive_shadows on 
+
+    technique BaseTechnique
+    {
+        pass BaseRender
+        {
+            
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware none
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+            texture_unit Diffuse_Map
+            {
+                texture DI_SPORT_WRECK_Unibody.png
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op modulate
+            }
+
+        }
+    }
+}
+// DI_SPORT_WHEE genrated by blender2ogre 0.6.0
+
+material DI_SPORT_WHEE  :  RoR/Managed_Mats/Base
+{
+    receive_shadows on 
+
+    technique BaseTechnique
+    {
+        pass BaseRender
+        {
+ 
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware none
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+            texture_unit Diffuse_Map
+            {
+                texture DI_SPORT_WRECK_308Wheel.png
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op modulate
+            }
+
+        }
+    }
+}
+// DI_SPORT_TIRE genrated by blender2ogre 0.6.0
+
+material DI_SPORT_TIRE  :  RoR/Managed_Mats/Base
+{
+    receive_shadows on 
+
+    technique BaseTechnique
+    {
+        pass BaseRender
+        {
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware none
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+            texture_unit Diffuse_Map
+            {
+                texture DI_SPORT_WRECK_BasicTireBand.png
+                tex_address_mode wrap
+                scale 1.0 1.0
+                tex_coord_set 0
+                colour_op modulate
+            }
+        }
+    }
+}

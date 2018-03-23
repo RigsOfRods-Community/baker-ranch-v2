@@ -20,11 +20,14 @@ update = Michael10055
 textures = ashes48
 textures = Masa
 textures = Charger
-caseys = DarthCain
+objects = DarthCain
 objects = hagdervriese
 objects = Austin
 objects = VeyronEB
+objects = derbymutt
+objects = Brett
 flag = DeGa
+
  
 [Objects]
 BakerForest.tobj=

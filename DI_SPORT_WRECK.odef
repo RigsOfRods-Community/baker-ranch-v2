@@ -1,0 +1,8 @@
+DI_SPORT_WRECK.mesh
+1, 1, 1
+beginmesh
+mesh DI_SPORT_COLLISION.mesh
+stdfriction rock
+endmesh
+
+end
