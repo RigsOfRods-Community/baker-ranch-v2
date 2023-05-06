@@ -1,6 +1,6 @@
 [General]
 Name = Baker Ranch V2
-GeometryConfig = BakerForest.otc
+GeometryConfig = BakerRanchV2.otc
 Water=1
 WaterLine=12
 AmbientColor = 0.93 0.86 0.76
@@ -8,7 +8,7 @@ StartPosition = 2066.71 15.0319 1589.69
 #CaelumConfigFile =
 SandStormCubeMap = tracks/skyboxcol
 Gravity = -9.81
-TractionMap = BakerForest-landuse.cfg
+TractionMap = BakerRanchV2-landuse.cfg
 CategoryID = 129
 Version = 2
 GUID = f0213c25-7ef7-46df-8536-61dd18b928c6
@@ -16,7 +16,7 @@ GUID = f0213c25-7ef7-46df-8536-61dd18b928c6
 [Authors]
 terrain = Box5diesel
 converting = Klink
-update = Michael10055
+update = CuriousMike
 textures = ashes48
 textures = Masa
 textures = Charger
@@ -30,5 +30,5 @@ flag = DeGa
 
  
 [Objects]
-BakerForest.tobj=
-BakerForest-veg.tobj=
+BakerRanchV2-main.tobj=
+BakerRanchV2-veg.tobj=
