@@ -1,0 +1,17 @@
+;Heightmap.0.0.raw.size=1025
+;Heightmap.0.0.raw.bpp=2
+;Heightmap.0.0.flipX=0
+
+WorldSizeX=3000
+WorldSizeZ=3000
+WorldSizeY=92.3
+PageSize=1025
+ 
+disableCaching=1
+ 
+PageFileFormat=BakerRanchV2-page-0-0.otc
+
+MaxPixelError=3
+LightmapEnabled=0
+SpecularMappingEnabled=1
+NormalMappingEnabled=1
